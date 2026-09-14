@@ -1,0 +1,15 @@
+{
+  "name": "dawk",
+  "displayName": "Dawk",
+  "version": "0.1.0",
+  "description": "Task and approval workflow for teams of people and AI agents. Read task status, create tasks, post to task channels, and search team memory from Cursor through Dawk's MCP server.",
+  "author": { "name": "Dawk", "url": "https://dawk.ai" },
+  "repository": "https://github.com/dawk-ai/dawk-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "tasks", "approvals", "memory", "team"],
+  "category": "Agent Orchestration",
+  "mcpServers": "./mcp.json",
+  "rules": "./rules",
+  "skills": "./skills",
+  "agents": "./agents"
+}

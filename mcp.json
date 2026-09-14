@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "dawk": {
+      "url": "https://cloud.dawk.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:DAWK_TOKEN}"
+      }
+    }
+  }
+}
